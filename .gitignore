@@ -1,0 +1,24 @@
+# macOS system files
+.DS_Store
+
+# Python artifacts
+__pycache__/
+*.pyc
+*.pyo
+*.egg-info/
+*.egg
+
+# Virtual environment (if one exists)
+venv/
+
+# Pytest artifacts
+.pytest_cache/
+
+
+# IDE-specific
+.vscode/
+
+# Log files or other generated files
+*.log
+*.tmp
+*.cache
